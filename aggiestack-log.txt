@@ -1,0 +1,1299 @@
+
+2018-08-03 00:10:48: Started AggieStack
+2018-08-03 00:10:53: Hardware file entered does not exist
+2018-08-03 00:11:01: Image file entered does not exist
+2018-08-03 00:11:08: Flavors file entered does not exist
+2018-08-03 00:11:13: Exited with "exit" command
+2018-08-03 00:13:04: Started AggieStack
+2018-08-03 00:15:12: Exited with "exit" command
+2018-08-03 00:16:49: Started AggieStack
+2018-08-03 00:16:56: Config Hardware command success
+2018-08-03 00:17:05: Config Images command success
+2018-08-03 00:17:14: Config Flavors command success
+2018-08-03 00:17:16: Exited with Ctrl + C
+2018-08-03 00:19:45: Started AggieStack
+2018-08-03 00:19:47: Invalid command entered
+2018-08-03 00:19:58: Invalid command entered
+2018-08-03 00:19:59: Exited with Ctrl + C
+2018-08-03 00:20:57: Started AggieStack
+2018-08-03 00:20:59: Invalid "show" command entered
+2018-08-03 00:21:02: Invalid "config" command entered
+2018-08-03 00:21:04: Invalid "admin" command entered
+2018-08-03 00:21:06: Exited with Ctrl + C
+2018-08-03 00:35:52: Started AggieStack
+2018-08-03 00:35:55: FAILURE - Invalid "show" command entered
+2018-08-03 00:36:05: SUCCESS - Config Hardware command
+2018-08-03 00:36:09: SUCCESS - Config Images command
+2018-08-03 00:36:22: SUCCESS - Config Flavors command
+2018-08-03 00:36:25: Exited with "exit" command
+2018-08-03 00:36:46: Started AggieStack
+2018-08-03 00:48:51: Started AggieStack
+2018-08-03 00:48:55: FAILURE - No file name entered
+2018-08-03 00:49:04: FAILURE - No file name entered
+2018-08-03 00:49:13: FAILURE - Image file entered does not exist
+2018-08-03 00:49:21: FAILURE - Hardware file entered does not exist
+2018-08-03 00:49:29: FAILURE - Flavors file entered does not exist
+2018-08-03 00:49:32: Exited with Ctrl + C
+2018-08-03 00:53:54: Started AggieStack
+2018-08-03 19:03:11: Started AggieStack
+2018-08-03 19:03:26: SUCCESS - admin show hardware command
+2018-08-03 19:03:39: SUCCESS - admin show instances command
+2018-08-03 19:03:44: FAILURE - Invalid "admin" command
+2018-08-03 19:04:30: SUCCESS - evacuate command
+2018-08-03 19:04:32: SUCCESS - add command
+2018-08-03 19:04:36: SUCCESS - remove command
+2018-08-03 19:04:39: Exited with "exit" command
+2018-08-04 01:40:06: Started AggieStack
+2018-08-04 01:40:07: Exited with Ctrl + C
+2018-08-04 01:42:28: Started AggieStack
+2018-08-04 01:42:29: Exited with Ctrl + C
+2018-08-04 01:45:41: Started AggieStack
+2018-08-04 01:45:43: Exited with Ctrl + C
+2018-08-04 01:55:05: Started AggieStack
+2018-08-04 01:55:07: Exited with Ctrl + C
+2018-08-04 01:55:57: Started AggieStack
+2018-08-04 01:56:03: Exited with Ctrl + C
+2018-08-04 01:56:22: Started AggieStack
+2018-08-04 01:56:25: Exited with Ctrl + C
+2018-08-04 01:57:47: Started AggieStack
+2018-08-04 01:57:49: Exited with Ctrl + C
+2018-08-04 02:06:07: Started AggieStack
+2018-08-04 02:06:09: Exited with Ctrl + C
+2018-08-04 02:07:46: Started AggieStack
+2018-08-04 02:07:49: Exited with Ctrl + C
+2018-08-04 02:13:37: Started AggieStack
+2018-08-04 02:14:01: Exited with Ctrl + C
+2018-08-04 02:14:01: Started AggieStack
+2018-08-04 02:14:10: Exited with Ctrl + C
+2018-08-04 02:14:35: Started AggieStack
+2018-08-04 02:14:40: Exited with Ctrl + C
+2018-08-04 02:34:40: Started AggieStack
+2018-08-04 02:34:44: Exited with Ctrl + C
+2018-08-04 02:36:48: Started AggieStack
+2018-08-04 02:36:52: Exited with Ctrl + C
+2018-08-04 02:38:43: Started AggieStack
+2018-08-04 03:08:16: Exited with Ctrl + C
+2018-08-04 03:08:36: Started AggieStack
+2018-08-04 03:08:38: Exited with Ctrl + C
+2018-08-04 03:09:25: Started AggieStack
+2018-08-04 03:09:27: Exited with Ctrl + C
+2018-08-04 03:28:52: Started AggieStack
+2018-08-04 03:28:53: Exited with Ctrl + C
+2018-08-04 03:38:48: Started AggieStack
+2018-08-04 03:38:49: Exited with Ctrl + C
+2018-08-04 03:46:31: Started AggieStack
+2018-08-04 03:46:33: Exited with Ctrl + C
+2018-08-04 03:55:14: Started AggieStack
+2018-08-04 03:55:17: Exited with Ctrl + C
+2018-08-04 03:56:14: Started AggieStack
+2018-08-04 03:58:54: Exited with Ctrl + C
+2018-08-04 03:59:19: Started AggieStack
+2018-08-04 03:59:28: Exited with Ctrl + C
+2018-08-04 04:01:29: Started AggieStack
+2018-08-04 04:01:36: Exited with Ctrl + C
+2018-08-04 04:06:32: Started AggieStack
+2018-08-04 04:06:34: Exited with Ctrl + C
+2018-08-04 04:07:19: Started AggieStack
+2018-08-04 04:07:24: Exited with Ctrl + C
+2018-08-04 04:08:00: Started AggieStack
+2018-08-04 04:08:06: Exited with Ctrl + C
+2018-08-04 04:09:18: Started AggieStack
+2018-08-04 04:09:34: Exited with Ctrl + C
+2018-08-04 04:11:09: Started AggieStack
+2018-08-04 04:11:19: Exited with Ctrl + C
+2018-08-04 04:14:26: Started AggieStack
+2018-08-04 04:14:30: Exited with Ctrl + C
+2018-08-04 04:16:55: Started AggieStack
+2018-08-04 04:16:59: Exited with Ctrl + C
+2018-08-04 05:08:02: Started AggieStack
+2018-08-04 05:08:04: Exited with Ctrl + C
+2018-08-04 05:16:46: Started AggieStack
+2018-08-04 05:17:12: Exited with Ctrl + C
+2018-08-04 05:18:40: Started AggieStack
+2018-08-04 05:18:44: Exited with Ctrl + C
+2018-08-04 05:23:05: Started AggieStack
+2018-08-04 05:23:07: Exited with Ctrl + C
+2018-08-04 05:37:56: Started AggieStack
+2018-08-04 05:37:59: Exited with Ctrl + C
+2018-08-04 06:15:24: Started AggieStack
+2018-08-04 06:15:59: SUCCESS - Config Hardware command
+2018-08-04 06:16:16: Exited with Ctrl + C
+2018-08-04 06:29:04: Started AggieStack
+2018-08-04 06:30:16: Started AggieStack
+2018-08-04 06:33:43: Started AggieStack
+2018-08-04 06:35:11: Started AggieStack
+2018-08-04 06:40:11: Started AggieStack
+2018-08-04 06:40:13: SUCCESS - Config Hardware command
+2018-08-04 06:41:01: Exited with "exit" command
+2018-08-04 06:44:00: Started AggieStack
+2018-08-04 06:44:04: SUCCESS - Config Hardware command
+2018-08-04 06:44:31: Started AggieStack
+2018-08-04 06:44:32: SUCCESS - Config Hardware command
+2018-08-04 06:46:30: Started AggieStack
+2018-08-04 06:46:32: FAILURE - Invalid "test" command entered
+2018-08-04 06:46:36: Exited with Ctrl + C
+2018-08-04 06:47:15: Started AggieStack
+2018-08-04 06:47:25: Exited with Ctrl + C
+2018-08-04 06:48:15: Started AggieStack
+2018-08-04 06:48:23: Exited with Ctrl + C
+2018-08-04 06:49:28: Started AggieStack
+2018-08-04 06:49:30: SUCCESS - Config Hardware command
+2018-08-04 06:49:34: SUCCESS - Show Hardware command
+2018-08-04 06:50:17: Exited with Ctrl + C
+2018-08-04 06:51:51: Started AggieStack
+2018-08-04 06:51:52: SUCCESS - Config Hardware command
+2018-08-04 06:52:21: Started AggieStack
+2018-08-04 06:52:22: SUCCESS - Config Hardware command
+2018-08-04 06:52:25: SUCCESS - Show Hardware command
+2018-08-04 06:54:35: Exited with Ctrl + C
+2018-08-04 06:54:37: Started AggieStack
+2018-08-04 06:54:50: SUCCESS - Show Images command
+2018-08-04 06:54:58: SUCCESS - Show Hardware command
+2018-08-04 06:55:08: Exited with Ctrl + C
+2018-08-04 06:56:58: Started AggieStack
+2018-08-04 06:57:01: SUCCESS - Config Hardware command
+2018-08-04 06:57:03: SUCCESS - Show Hardware command
+2018-08-04 06:57:13: Exited with Ctrl + C
+2018-08-04 06:58:22: Started AggieStack
+2018-08-04 06:58:24: SUCCESS - Config Hardware command
+2018-08-04 06:58:25: SUCCESS - Show Hardware command
+2018-08-04 06:58:33: Exited with Ctrl + C
+2018-08-04 06:58:55: Started AggieStack
+2018-08-04 06:58:56: SUCCESS - Config Hardware command
+2018-08-04 06:58:58: SUCCESS - Show Hardware command
+2018-08-04 06:59:21: Exited with Ctrl + C
+2018-08-04 07:00:17: Started AggieStack
+2018-08-04 07:00:38: Exited with Ctrl + C
+2018-08-04 07:02:13: Started AggieStack
+2018-08-04 07:02:15: SUCCESS - Config Hardware command
+2018-08-04 07:02:17: SUCCESS - Show Hardware command
+2018-08-04 07:02:34: Exited with Ctrl + C
+2018-08-04 07:04:02: Started AggieStack
+2018-08-04 07:04:04: SUCCESS - Config Hardware command
+2018-08-04 07:04:06: SUCCESS - Show Hardware command
+2018-08-04 07:04:08: Exited with Ctrl + C
+2018-08-04 07:04:28: Started AggieStack
+2018-08-04 07:04:29: SUCCESS - Config Hardware command
+2018-08-04 07:05:10: Started AggieStack
+2018-08-04 07:05:13: SUCCESS - Show Hardware command
+2018-08-04 07:05:14: SUCCESS - Show Images command
+2018-08-04 07:05:31: Exited with Ctrl + C
+2018-08-04 07:14:08: Started AggieStack
+2018-08-04 07:14:11: SUCCESS - Config Hardware command
+2018-08-04 07:14:12: SUCCESS - Show Hardware command
+2018-08-04 07:14:50: Exited with Ctrl + C
+2018-08-04 07:14:51: Started AggieStack
+2018-08-04 07:14:54: SUCCESS - Show Hardware command
+2018-08-04 07:14:59: SUCCESS - Config Hardware command
+2018-08-04 07:15:01: SUCCESS - Show Hardware command
+2018-08-04 07:15:18: Exited with Ctrl + C
+2018-08-04 07:16:56: Started AggieStack
+2018-08-04 07:16:57: SUCCESS - Config Hardware command
+2018-08-04 07:16:59: SUCCESS - Show Hardware command
+2018-08-04 07:17:13: Exited with Ctrl + C
+2018-08-04 07:18:57: Started AggieStack
+2018-08-04 07:18:59: SUCCESS - Config Hardware command
+2018-08-04 07:19:01: SUCCESS - Show Hardware command
+2018-08-04 07:19:05: Exited with Ctrl + C
+2018-08-04 07:20:33: Started AggieStack
+2018-08-04 07:20:34: SUCCESS - Config Hardware command
+2018-08-04 07:20:35: SUCCESS - Show Hardware command
+2018-08-04 07:20:39: Exited with Ctrl + C
+2018-08-04 07:27:14: Started AggieStack
+2018-08-04 07:27:23: SUCCESS - Config Hardware command
+2018-08-04 07:27:36: SUCCESS - Config Images command
+2018-08-04 07:27:44: FAILURE - Invalid "--flavors" command entered
+2018-08-04 07:28:13: SUCCESS - Config Flavors command
+2018-08-04 07:28:19: SUCCESS - Show Hardware command
+2018-08-04 07:28:29: SUCCESS - Show Images command
+2018-08-04 07:28:42: SUCCESS - Show Flavors command
+2018-08-04 07:28:54: Exited with Ctrl + C
+2018-08-04 07:29:30: Started AggieStack
+2018-08-04 07:29:33: SUCCESS - Config Flavors command
+2018-08-04 07:29:37: SUCCESS - Config Images command
+2018-08-04 07:29:41: SUCCESS - Config Hardware command
+2018-08-04 07:29:43: SUCCESS - Show Hardware command
+2018-08-04 07:30:06: SUCCESS - Show Images command
+2018-08-04 07:30:11: SUCCESS - Show Flavors command
+2018-08-04 07:30:16: SUCCESS - Show Hardware command
+2018-08-04 07:30:23: Exited with Ctrl + C
+2018-08-04 07:30:36: Started AggieStack
+2018-08-04 07:30:39: SUCCESS - Config Hardware command
+2018-08-04 07:30:41: SUCCESS - Config Images command
+2018-08-04 07:30:43: SUCCESS - Config Flavors command
+2018-08-04 07:30:47: SUCCESS - Show Flavors command
+2018-08-04 07:30:48: SUCCESS - Show Images command
+2018-08-04 07:30:50: SUCCESS - Show Hardware command
+2018-08-04 07:30:53: Exited with Ctrl + C
+2018-08-04 07:31:17: Started AggieStack
+2018-08-04 07:31:18: SUCCESS - Show Hardware command
+2018-08-04 07:31:22: SUCCESS - Config Hardware command
+2018-08-04 07:31:23: SUCCESS - Show Hardware command
+2018-08-04 07:31:28: Exited with Ctrl + C
+2018-08-04 07:31:44: Started AggieStack
+2018-08-04 07:31:48: SUCCESS - Config Hardware command
+2018-08-04 07:32:07: SUCCESS - Config Flavors command
+2018-08-04 07:32:10: SUCCESS - Config Images command
+2018-08-04 07:32:13: SUCCESS - Show Images command
+2018-08-04 07:32:18: SUCCESS - Show Flavors command
+2018-08-04 07:32:28: Exited with "exit" command
+2018-08-04 07:35:12: Started AggieStack
+2018-08-04 07:35:17: SUCCESS - Config Images command
+2018-08-04 07:35:20: SUCCESS - Config Flavors command
+2018-08-04 07:35:24: SUCCESS - Config Hardware command
+2018-08-04 07:35:30: SUCCESS - Show All command
+2018-08-04 07:35:45: Exited with Ctrl + C
+2018-08-04 20:06:51: Started AggieStack
+2018-08-04 20:06:55: SUCCESS - Config Hardware command
+2018-08-04 20:06:56: SUCCESS - Config Flavors command
+2018-08-04 20:06:58: SUCCESS - Config Images command
+2018-08-04 20:07:23: Started AggieStack
+2018-08-04 20:07:25: SUCCESS - Config Hardware command
+2018-08-04 20:07:26: SUCCESS - Config Flavors command
+2018-08-04 20:07:27: SUCCESS - Config Images command
+2018-08-04 20:08:31: Started AggieStack
+2018-08-04 20:08:33: SUCCESS - Config Hardware command
+2018-08-04 20:08:34: SUCCESS - Config Flavors command
+2018-08-04 20:08:35: SUCCESS - Config Images command
+2018-08-04 20:08:43: SUCCESS - Show All command
+2018-08-04 20:08:49: Exited with Ctrl + C
+2018-08-04 20:19:53: Started AggieStack
+2018-08-04 20:19:55: SUCCESS - Config Images command
+2018-08-04 20:19:56: SUCCESS - Config Flavors command
+2018-08-04 20:19:57: SUCCESS - Config Hardware command
+2018-08-04 20:20:04: SUCCESS - Show Hardware command
+2018-08-04 20:20:49: Started AggieStack
+2018-08-04 20:20:51: SUCCESS - Config Hardware command
+2018-08-04 20:20:52: SUCCESS - Config Flavors command
+2018-08-04 20:20:54: SUCCESS - Config Images command
+2018-08-04 20:21:12: Started AggieStack
+2018-08-04 20:21:13: SUCCESS - Config Images command
+2018-08-04 20:21:14: SUCCESS - Config Flavors command
+2018-08-04 20:21:16: SUCCESS - Config Hardware command
+2018-08-04 20:21:19: SUCCESS - Show Hardware command
+2018-08-04 20:21:24: SUCCESS - Show Flavors command
+2018-08-04 20:21:29: SUCCESS - Show Images command
+2018-08-04 20:21:42: Exited with Ctrl + C
+2018-08-04 20:24:25: Started AggieStack
+2018-08-04 20:24:27: SUCCESS - Config Hardware command
+2018-08-04 20:24:28: SUCCESS - Config Flavors command
+2018-08-04 20:24:29: SUCCESS - Config Images command
+2018-08-04 20:24:37: SUCCESS - Show All command
+2018-08-04 20:30:27: Exited with Ctrl + C
+2018-08-04 20:30:29: Started AggieStack
+2018-08-04 20:30:32: SUCCESS - Config Hardware command
+2018-08-04 20:30:38: SUCCESS - admin show hardware command
+2018-08-04 20:30:42: Exited with Ctrl + C
+2018-08-04 20:49:01: Started AggieStack
+2018-08-04 20:49:07: FAILURE - Invalid "hardware" command entered
+2018-08-04 20:50:30: Exited with Ctrl + C
+2018-08-04 20:50:32: Started AggieStack
+2018-08-04 20:50:44: SUCCESS - Show Hardware command
+2018-08-04 20:50:52: Exited with Ctrl + C
+2018-08-04 21:09:18: Started AggieStack
+2018-08-04 21:09:19: Exited with Ctrl + C
+2018-08-04 21:10:17: Started AggieStack
+2018-08-04 21:11:07: Started AggieStack
+2018-08-04 21:11:28: Started AggieStack
+2018-08-04 21:11:38: Exited with Ctrl + C
+2018-08-04 21:12:09: Started AggieStack
+2018-08-04 21:12:15: Exited with Ctrl + C
+2018-08-04 21:13:12: Started AggieStack
+2018-08-04 21:14:29: Exited with Ctrl + C
+2018-08-04 21:14:30: Started AggieStack
+2018-08-04 21:14:37: Exited with Ctrl + C
+2018-08-04 21:32:54: Started AggieStack
+2018-08-04 21:32:55: Exited with Ctrl + C
+2018-08-04 21:43:24: Started AggieStack
+2018-08-04 21:43:30: Exited with Ctrl + C
+2018-08-04 21:45:36: Started AggieStack
+2018-08-04 21:45:40: Exited with Ctrl + C
+2018-08-04 21:46:00: Started AggieStack
+2018-08-04 21:46:10: Exited with Ctrl + C
+2018-08-04 21:56:43: Started AggieStack
+2018-08-04 21:56:49: SUCCESS - Config Hardware command
+2018-08-04 21:56:51: SUCCESS - Config Flavors command
+2018-08-04 22:00:27: Started AggieStack
+2018-08-04 22:00:31: SUCCESS - Config Flavors command
+2018-08-04 22:00:32: SUCCESS - Config Hardware command
+2018-08-04 22:01:24: Started AggieStack
+2018-08-04 22:01:29: SUCCESS - Config Flavors command
+2018-08-04 22:01:32: SUCCESS - Config Hardware command
+2018-08-04 22:16:04: Started AggieStack
+2018-08-04 22:16:06: SUCCESS - Config Flavors command
+2018-08-04 22:16:08: SUCCESS - Config Hardware command
+2018-08-04 22:20:40: Started AggieStack
+2018-08-04 22:20:43: SUCCESS - Config Flavors command
+2018-08-04 22:20:45: SUCCESS - Config Hardware command
+2018-08-04 22:22:52: Started AggieStack
+2018-08-04 22:22:54: SUCCESS - Config Flavors command
+2018-08-04 22:22:55: SUCCESS - Config Hardware command
+2018-08-04 22:22:58: SUCCESS - can_host command
+2018-08-04 22:24:25: SUCCESS - can_host command
+2018-08-04 22:24:47: Exited with Ctrl + C
+2018-08-04 22:26:30: Started AggieStack
+2018-08-04 22:26:32: SUCCESS - Config Hardware command
+2018-08-04 22:26:33: SUCCESS - Config Flavors command
+2018-08-04 22:26:37: SUCCESS - can_host command
+2018-08-04 22:26:45: SUCCESS - can_host command
+2018-08-04 22:27:33: SUCCESS - can_host command
+2018-08-04 22:27:36: Exited with Ctrl + C
+2018-08-04 23:38:12: Started AggieStack
+2018-08-04 23:38:16: SUCCESS - Config Flavors command
+2018-08-04 23:38:17: SUCCESS - Config Hardware command
+2018-08-04 23:40:07: Started AggieStack
+2018-08-04 23:40:10: SUCCESS - Config Hardware command
+2018-08-04 23:40:12: SUCCESS - Config Flavors command
+2018-08-04 23:40:14: SUCCESS - can_host command
+2018-08-04 23:40:25: SUCCESS - can_host command
+2018-08-04 23:40:28: Exited with Ctrl + C
+2018-08-04 23:47:38: Started AggieStack
+2018-08-04 23:47:40: SUCCESS - Config Hardware command
+2018-08-04 23:47:41: SUCCESS - Config Flavors command
+2018-08-04 23:47:44: SUCCESS - can_host command
+2018-08-04 23:47:50: SUCCESS - can_host command
+2018-08-04 23:50:14: Exited with Ctrl + C
+2018-08-04 23:50:18: Started AggieStack
+2018-08-04 23:50:21: SUCCESS - Config Flavors command
+2018-08-04 23:50:23: SUCCESS - Config Hardware command
+2018-08-04 23:50:25: SUCCESS - can_host command
+2018-08-04 23:50:31: SUCCESS - can_host command
+2018-08-04 23:50:39: SUCCESS - can_host command
+2018-08-04 23:50:51: Exited with Ctrl + C
+2018-08-04 23:51:45: Started AggieStack
+2018-08-04 23:51:47: SUCCESS - Config Flavors command
+2018-08-04 23:51:48: SUCCESS - Config Hardware command
+2018-08-04 23:51:50: SUCCESS - can_host command
+2018-08-04 23:51:53: SUCCESS - can_host command
+2018-08-04 23:51:59: SUCCESS - can_host command
+2018-08-04 23:52:02: Exited with Ctrl + C
+2018-08-05 00:11:46: Started AggieStack
+2018-08-05 00:11:48: Exited with Ctrl + C
+2018-08-05 00:23:45: Started AggieStack
+2018-08-05 00:23:50: SUCCESS - Config Flavors command
+2018-08-05 00:23:51: SUCCESS - Config Hardware command
+2018-08-05 00:23:55: SUCCESS - can_host command
+2018-08-05 00:23:57: SUCCESS - can_host command
+2018-08-05 00:24:04: SUCCESS - Show Flavors command
+2018-08-05 00:24:12: Exited with Ctrl + C
+2018-08-05 00:36:36: Started AggieStack
+2018-08-05 00:36:38: Exited with Ctrl + C
+2018-08-05 02:35:30: Started AggieStack
+2018-08-05 02:35:35: Exited with Ctrl + C
+2018-08-05 02:35:36: Started AggieStack
+2018-08-05 02:35:38: Exited with Ctrl + C
+2018-08-05 02:36:35: Started AggieStack
+2018-08-05 02:36:58: SUCCESS - Config Hardware command
+2018-08-05 02:37:08: SUCCESS - Config Images command
+2018-08-05 02:37:17: SUCCESS - Config Flavors command
+2018-08-05 02:37:30: FAILURE - Invalid "aggiestack" command entered
+2018-08-05 02:38:01: SUCCESS - server create command
+2018-08-05 02:38:21: FAILURE - Invalid "show" command entered
+2018-08-05 02:38:29: SUCCESS - admin show hardware command
+2018-08-05 02:40:54: SUCCESS - server create command
+2018-08-05 02:40:58: SUCCESS - admin show hardware command
+2018-08-05 02:41:37: SUCCESS - server create command
+2018-08-05 02:41:46: SUCCESS - admin show hardware command
+2018-08-05 02:41:59: Exited with Ctrl + C
+2018-08-05 02:48:10: Started AggieStack
+2018-08-05 02:48:21: SUCCESS - Config Flavors command
+2018-08-05 02:48:23: SUCCESS - Config Images command
+2018-08-05 02:48:27: SUCCESS - Config Hardware command
+2018-08-05 02:48:40: SUCCESS - server create command
+2018-08-05 02:48:44: SUCCESS - server create command
+2018-08-05 02:48:48: SUCCESS - server create command
+2018-08-05 02:51:13: Started AggieStack
+2018-08-05 02:51:22: SUCCESS - Config Flavors command
+2018-08-05 02:51:24: SUCCESS - Config Images command
+2018-08-05 02:51:25: SUCCESS - Config Hardware command
+2018-08-05 02:51:28: SUCCESS - server create command
+2018-08-05 02:51:28: SUCCESS - server create command
+2018-08-05 02:51:29: SUCCESS - server create command
+2018-08-05 02:54:24: Started AggieStack
+2018-08-05 02:54:30: SUCCESS - Config Flavors command
+2018-08-05 02:54:31: SUCCESS - Config Images command
+2018-08-05 02:54:33: SUCCESS - Config Hardware command
+2018-08-05 02:54:35: SUCCESS - server create command
+2018-08-05 02:54:35: SUCCESS - server create command
+2018-08-05 02:54:36: SUCCESS - server create command
+2018-08-05 02:54:38: SUCCESS - server list command
+2018-08-05 02:56:20: Exited with Ctrl + C
+2018-08-05 02:58:50: Started AggieStack
+2018-08-05 02:58:58: SUCCESS - server create command
+2018-08-05 02:59:47: Exited with Ctrl + C
+2018-08-05 03:08:02: Started AggieStack
+2018-08-05 03:08:04: Exited with Ctrl + C
+2018-08-05 03:18:42: Started AggieStack
+2018-08-05 03:18:59: FAILURE - Invalid "show" command entered
+2018-08-05 03:19:33: FAILURE - Hardware file entered does not exist
+2018-08-05 03:19:43: Exited with Ctrl + C
+2018-08-05 04:02:18: Started AggieStack
+2018-08-05 04:02:25: SUCCESS - Config Flavors command
+2018-08-05 04:02:28: SUCCESS - Config Images command
+2018-08-05 04:02:29: SUCCESS - Config Hardware command
+2018-08-05 04:02:37: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:02:41: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:02:42: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:02:47: SUCCESS - server list command
+2018-08-05 04:03:14: SUCCESS - Show Hardware command
+2018-08-05 04:03:21: SUCCESS - admin show hardware command
+2018-08-05 04:05:28: Started AggieStack
+2018-08-05 04:05:35: SUCCESS - Config Flavors command
+2018-08-05 04:05:37: SUCCESS - Config Images command
+2018-08-05 04:05:38: SUCCESS - Config Hardware command
+2018-08-05 04:05:40: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:05:42: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:05:46: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:06:48: Started AggieStack
+2018-08-05 04:06:54: SUCCESS - Config Flavors command
+2018-08-05 04:06:55: SUCCESS - Config Images command
+2018-08-05 04:06:55: SUCCESS - Config Hardware command
+2018-08-05 04:06:57: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:06:59: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:07:00: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:10:36: Started AggieStack
+2018-08-05 04:10:42: SUCCESS - Config Flavors command
+2018-08-05 04:10:43: SUCCESS - Config Images command
+2018-08-05 04:10:43: SUCCESS - Config Hardware command
+2018-08-05 04:10:44: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:10:46: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:10:47: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:11:49: Started AggieStack
+2018-08-05 04:11:58: SUCCESS - Config Flavors command
+2018-08-05 04:11:58: SUCCESS - Config Images command
+2018-08-05 04:11:59: SUCCESS - Config Hardware command
+2018-08-05 04:12:00: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:12:03: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:12:04: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:19:00: Started AggieStack
+2018-08-05 04:19:04: SUCCESS - Config Flavors command
+2018-08-05 04:19:05: SUCCESS - Config Images command
+2018-08-05 04:19:06: SUCCESS - Config Hardware command
+2018-08-05 04:19:07: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:19:07: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:19:08: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:23:19: Started AggieStack
+2018-08-05 04:23:23: SUCCESS - Config Flavors command
+2018-08-05 04:23:24: SUCCESS - Config Images command
+2018-08-05 04:23:25: SUCCESS - Config Hardware command
+2018-08-05 04:23:26: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:23:27: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:23:29: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:25:39: Started AggieStack
+2018-08-05 04:25:52: SUCCESS - Config Flavors command
+2018-08-05 04:25:53: SUCCESS - Config Images command
+2018-08-05 04:25:54: SUCCESS - Config Hardware command
+2018-08-05 04:25:55: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:25:57: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:25:58: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:29:00: Started AggieStack
+2018-08-05 04:29:03: SUCCESS - Config Flavors command
+2018-08-05 04:29:04: SUCCESS - Config Images command
+2018-08-05 04:29:04: SUCCESS - Config Hardware command
+2018-08-05 04:29:05: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:29:06: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:29:07: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:29:08: SUCCESS - server delete command
+2018-08-05 04:29:32: SUCCESS - server list command
+2018-08-05 04:29:50: SUCCESS - admin show hardware command
+2018-08-05 04:30:27: SUCCESS - server delete command
+2018-08-05 04:30:33: SUCCESS - server delete command
+2018-08-05 04:30:41: SUCCESS - admin show hardware command
+2018-08-05 04:35:02: Exited with Ctrl + C
+2018-08-05 04:35:03: Started AggieStack
+2018-08-05 04:35:11: SUCCESS - Config Flavors command
+2018-08-05 04:35:12: SUCCESS - Config Images command
+2018-08-05 04:35:12: SUCCESS - Config Hardware command
+2018-08-05 04:35:14: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:35:15: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:35:16: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:35:19: SUCCESS - server delete command
+2018-08-05 04:35:21: SUCCESS - server delete command
+2018-08-05 04:35:26: SUCCESS - server delete command
+2018-08-05 04:35:32: SUCCESS - admin show hardware command
+2018-08-05 04:44:21: Exited with Ctrl + C
+2018-08-05 04:44:23: Started AggieStack
+2018-08-05 04:44:27: SUCCESS - Config Flavors command
+2018-08-05 04:44:29: SUCCESS - Config Hardware command
+2018-08-05 04:44:32: SUCCESS - Config Images command
+2018-08-05 04:44:35: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:44:36: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:44:38: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:44:41: SUCCESS - server delete command
+2018-08-05 04:44:43: SUCCESS - server delete command
+2018-08-05 04:44:44: SUCCESS - server delete command
+2018-08-05 04:44:47: SUCCESS - admin show hardware command
+2018-08-05 04:45:53: Exited with Ctrl + C
+2018-08-05 04:58:26: Started AggieStack
+2018-08-05 04:58:32: SUCCESS - Config Flavors command
+2018-08-05 04:58:35: SUCCESS - Config Images command
+2018-08-05 04:58:38: SUCCESS - Config Hardware command
+2018-08-05 04:58:40: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:58:42: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:58:45: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:59:27: Started AggieStack
+2018-08-05 04:59:30: SUCCESS - Config Flavors command
+2018-08-05 04:59:31: SUCCESS - Config Images command
+2018-08-05 04:59:32: SUCCESS - Config Hardware command
+2018-08-05 04:59:33: SUCCESS - An instance was created on the machine m1
+2018-08-05 04:59:33: SUCCESS - An instance was created on the machine m2
+2018-08-05 04:59:34: SUCCESS - An instance was created on the machine m3
+2018-08-05 04:59:36: SUCCESS - admin show instances command
+2018-08-05 05:00:20: SUCCESS - An instance was created on the machine k1
+2018-08-05 05:00:28: SUCCESS - An instance was created on the machine k2
+2018-08-05 05:00:35: SUCCESS - An instance was created on the machine k3
+2018-08-05 05:00:42: SUCCESS - An instance was created on the machine dora
+2018-08-05 05:00:50: SUCCESS - An instance was created on the machine dora
+2018-08-05 05:00:56: SUCCESS - But no machines availbe for instance
+2018-08-05 05:01:13: SUCCESS - admin show hardware command
+2018-08-05 05:02:16: SUCCESS - admin show instances command
+2018-08-05 05:02:42: Exited with Ctrl + C
+2018-08-05 05:04:54: Started AggieStack
+2018-08-05 05:05:00: SUCCESS - Config Flavors command
+2018-08-05 05:05:01: SUCCESS - Config Images command
+2018-08-05 05:05:03: SUCCESS - Config Hardware command
+2018-08-05 05:05:04: SUCCESS - An instance was created on the machine m1
+2018-08-05 05:05:05: SUCCESS - An instance was created on the machine m2
+2018-08-05 05:05:06: SUCCESS - An instance was created on the machine m3
+2018-08-05 05:05:13: SUCCESS - admin show instances command
+2018-08-05 05:05:47: Exited with Ctrl + C
+2018-08-05 05:07:23: Started AggieStack
+2018-08-05 05:07:28: SUCCESS - Config Flavors command
+2018-08-05 05:07:30: SUCCESS - Config Images command
+2018-08-05 05:07:31: SUCCESS - Config Hardware command
+2018-08-05 05:07:35: SUCCESS - An instance was created on the machine m1
+2018-08-05 05:07:35: SUCCESS - An instance was created on the machine m2
+2018-08-05 05:07:36: SUCCESS - An instance was created on the machine m3
+2018-08-05 05:07:47: SUCCESS - server list command
+2018-08-05 05:08:11: Exited with Ctrl + C
+2018-08-05 05:44:29: Started AggieStack
+2018-08-05 05:44:37: SUCCESS - Config Flavors command
+2018-08-05 05:44:38: SUCCESS - Config Images command
+2018-08-05 05:44:38: SUCCESS - Config Hardware command
+2018-08-05 05:45:17: Started AggieStack
+2018-08-05 05:45:20: SUCCESS - Config Flavors command
+2018-08-05 05:45:21: SUCCESS - Config Images command
+2018-08-05 05:45:22: SUCCESS - Config Hardware command
+2018-08-05 05:45:26: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 05:45:35: SUCCESS - Instancemy-second-instance was created on the machine m2
+2018-08-05 05:45:37: SUCCESS - Instancemy-third-instance was created on the machine m3
+2018-08-05 05:47:09: Started AggieStack
+2018-08-05 05:47:14: SUCCESS - Config Flavors command
+2018-08-05 05:47:14: SUCCESS - Config Images command
+2018-08-05 05:47:15: SUCCESS - Config Hardware command
+2018-08-05 05:47:16: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 05:47:19: SUCCESS - Instancemy-second-instance was created on the machine m2
+2018-08-05 05:47:20: SUCCESS - Instancemy-third-instance was created on the machine m3
+2018-08-05 05:47:26: SUCCESS - Instancemy-first-instance was deleted from machine m1
+2018-08-05 05:47:37: SUCCESS - server list command
+2018-08-05 05:48:01: Exited with Ctrl + C
+2018-08-05 06:05:54: Started AggieStack
+2018-08-05 06:05:59: SUCCESS - Config Flavors command
+2018-08-05 06:05:59: SUCCESS - Config Images command
+2018-08-05 06:06:00: SUCCESS - Config Hardware command
+2018-08-05 06:06:01: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:06:03: SUCCESS - Instancemy-second-instance was created on the machine m2
+2018-08-05 06:06:04: SUCCESS - Instancemy-third-instance was created on the machine m3
+2018-08-05 06:06:08: SUCCESS - Instancemy-first-instance was deleted from machine m1
+2018-08-05 06:06:20: SUCCESS - Instancemy-second-instance was deleted from machine m2
+2018-08-05 06:06:24: Exited with Ctrl + C
+2018-08-05 06:35:58: Started AggieStack
+2018-08-05 06:36:00: Exited with Ctrl + C
+2018-08-05 06:36:10: Started AggieStack
+2018-08-05 06:36:16: SUCCESS - Config Flavors command
+2018-08-05 06:36:16: SUCCESS - Config Images command
+2018-08-05 06:36:18: SUCCESS - Config Hardware command
+2018-08-05 06:36:23: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:36:27: SUCCESS - Instancemy-second-instance was created on the machine m2
+2018-08-05 06:36:28: SUCCESS - Instancemy-third-instance was created on the machine m3
+2018-08-05 06:39:38: Started AggieStack
+2018-08-05 06:39:42: SUCCESS - Config Flavors command
+2018-08-05 06:39:43: SUCCESS - Config Images command
+2018-08-05 06:39:43: SUCCESS - Config Hardware command
+2018-08-05 06:39:44: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:39:45: SUCCESS - Instancemy-second-instance was created on the machine m2
+2018-08-05 06:39:46: SUCCESS - Instancemy-third-instance was created on the machine m3
+2018-08-05 06:39:47: SUCCESS - admin evacuate command
+2018-08-05 06:40:08: SUCCESS - admin show hardware command
+2018-08-05 06:40:36: SUCCESS - server list command
+2018-08-05 06:41:27: Exited with Ctrl + C
+2018-08-05 06:41:29: Started AggieStack
+2018-08-05 06:41:34: SUCCESS - Config Flavors command
+2018-08-05 06:41:35: SUCCESS - Config Images command
+2018-08-05 06:41:37: SUCCESS - Config Hardware command
+2018-08-05 06:41:48: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:42:11: SUCCESS - admin show hardware command
+2018-08-05 06:42:53: SUCCESS - admin evacuate command
+2018-08-05 06:43:01: SUCCESS - admin show hardware command
+2018-08-05 06:44:26: Exited with Ctrl + C
+2018-08-05 06:46:35: Started AggieStack
+2018-08-05 06:46:40: SUCCESS - Config Flavors command
+2018-08-05 06:46:41: SUCCESS - Config Images command
+2018-08-05 06:46:42: SUCCESS - Config Hardware command
+2018-08-05 06:46:50: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:47:01: SUCCESS - admin show hardware command
+2018-08-05 06:48:11: SUCCESS - admin evacuate command
+2018-08-05 06:48:16: SUCCESS - admin show hardware command
+2018-08-05 06:49:42: Exited with Ctrl + C
+2018-08-05 06:50:01: Started AggieStack
+2018-08-05 06:50:04: SUCCESS - Config Flavors command
+2018-08-05 06:50:05: SUCCESS - Config Images command
+2018-08-05 06:50:06: SUCCESS - Config Hardware command
+2018-08-05 06:50:10: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 06:50:14: SUCCESS - admin evacuate command
+2018-08-05 06:50:18: SUCCESS - Show Hardware command
+2018-08-05 06:50:25: SUCCESS - admin show hardware command
+2018-08-05 06:50:55: SUCCESS - admin evacuate command
+2018-08-05 06:51:01: SUCCESS - admin show hardware command
+2018-08-05 06:51:16: Exited with Ctrl + C
+2018-08-05 07:11:31: Started AggieStack
+2018-08-05 07:11:41: SUCCESS - Config Flavors command
+2018-08-05 07:11:42: SUCCESS - Config Images command
+2018-08-05 07:11:43: SUCCESS - Config Hardware command
+2018-08-05 07:11:44: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 07:13:32: Started AggieStack
+2018-08-05 07:13:37: SUCCESS - Config Flavors command
+2018-08-05 07:13:39: SUCCESS - Config Images command
+2018-08-05 07:13:40: SUCCESS - Config Hardware command
+2018-08-05 07:13:41: SUCCESS - Instancemy-first-instance was created on the machine m1
+2018-08-05 07:13:43: SUCCESS - Instance "my-first-instance" migrated to machine m22018-08-05 07:13:43: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:14:40: Exited with Ctrl + C
+2018-08-05 07:16:14: Started AggieStack
+2018-08-05 07:16:18: SUCCESS - Config Flavors command
+2018-08-05 07:16:21: SUCCESS - Config Images command
+2018-08-05 07:16:22: SUCCESS - Config Hardware command
+2018-08-05 07:16:23: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 07:16:31: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:16:31: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:16:35: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:16:35: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:16:35: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:16:35: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:37: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:16:52: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:03: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:04: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:07: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:17:08: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 07:18:47: SUCCESS - admin show hardware command
+2018-08-05 07:25:26: Exited with Ctrl + C
+2018-08-05 07:25:27: Started AggieStack
+2018-08-05 07:25:32: SUCCESS - Config Flavors command
+2018-08-05 07:25:34: SUCCESS - Config Images command
+2018-08-05 07:25:34: SUCCESS - Config Hardware command
+2018-08-05 07:25:43: SUCCESS - machine m1 was empty  and evacuated2018-08-05 07:25:52: SUCCESS - admin show hardware command
+2018-08-05 07:25:57: Exited with Ctrl + C
+2018-08-05 07:27:19: Started AggieStack
+2018-08-05 07:27:24: SUCCESS - Config Flavors command
+2018-08-05 07:27:25: SUCCESS - Config Images command
+2018-08-05 07:27:25: SUCCESS - Config Hardware command
+2018-08-05 07:27:29: SUCCESS - machine m1 was empty  and evacuated2018-08-05 07:27:35: SUCCESS - admin show hardware command
+2018-08-05 07:28:00: SUCCESS - Instance my-first-instance was created on the machine m2
+2018-08-05 07:28:08: SUCCESS - Instance "my-first-instance" migrated to machine m3
+2018-08-05 07:28:08: SUCCESS - Instance "my-first-instance" migrated to machine m3
+2018-08-05 07:28:16: SUCCESS - admin show hardware command
+2018-08-05 07:28:48: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:28:48: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:28:48: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:28:48: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:29:09: SUCCESS - admin show hardware command
+2018-08-05 07:29:46: Exited with Ctrl + C
+2018-08-05 07:32:03: Started AggieStack
+2018-08-05 07:32:10: SUCCESS - Config Flavors command
+2018-08-05 07:32:11: SUCCESS - Config Images command
+2018-08-05 07:32:11: SUCCESS - Config Hardware command
+2018-08-05 07:32:16: FAILURE - Invalid "evacuate" command entered
+2018-08-05 07:32:22: SUCCESS - machine m1 was empty  and evacuated2018-08-05 07:32:26: SUCCESS - machine m2 was empty  and evacuated2018-08-05 07:32:28: SUCCESS - machine m3 was empty  and evacuated2018-08-05 07:32:51: SUCCESS - Instance my-first-instance was created on the machine m4
+2018-08-05 07:33:29: Started AggieStack
+2018-08-05 07:33:41: SUCCESS - Config Flavors command
+2018-08-05 07:33:42: SUCCESS - Config Images command
+2018-08-05 07:33:42: SUCCESS - Config Hardware command
+2018-08-05 07:33:53: SUCCESS - machine m1 was empty  and evacuated2018-08-05 07:33:56: SUCCESS - machine m2 was empty  and evacuated2018-08-05 07:33:56: SUCCESS - machine m3 was empty  and evacuated2018-08-05 07:33:58: SUCCESS - Instance my-first-instance was created on the machine m4
+2018-08-05 07:34:01: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:34:01: SUCCESS - Instance "my-first-instance" migrated to machine k1
+2018-08-05 07:34:11: SUCCESS - admin show hardware command
+2018-08-05 07:34:47: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 07:34:47: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 07:34:47: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 07:34:47: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 07:38:24: Exited with Ctrl + C
+2018-08-05 07:38:25: Started AggieStack
+2018-08-05 07:38:33: SUCCESS - Config Flavors command
+2018-08-05 07:38:34: SUCCESS - Config Images command
+2018-08-05 07:38:34: SUCCESS - Config Hardware command
+2018-08-05 07:38:43: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 07:39:10: Started AggieStack
+2018-08-05 07:39:12: SUCCESS - Config Flavors command
+2018-08-05 07:39:14: SUCCESS - Config Hardware command
+2018-08-05 07:39:16: SUCCESS - Config Images command
+2018-08-05 07:39:19: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 07:39:21: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:39:21: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:39:54: SUCCESS - admin show hardware command
+2018-08-05 07:39:59: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:39:59: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:39:59: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:39:59: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:46:31: Exited with Ctrl + C
+2018-08-05 07:46:32: Started AggieStack
+2018-08-05 07:46:37: SUCCESS - Config Flavors command
+2018-08-05 07:46:38: SUCCESS - Config Hardware command
+2018-08-05 07:46:38: SUCCESS - Config Images command
+2018-08-05 07:46:40: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 07:46:44: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:46:44: SUCCESS - Instance "my-first-instance" migrated to machine m2
+2018-08-05 07:47:23: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:47:23: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:47:23: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:47:23: SUCCESS - Instance "my-first-instance" migrated to machine m4
+2018-08-05 07:55:41: Exited with Ctrl + C
+2018-08-05 08:01:01: Started AggieStack
+2018-08-05 08:01:04: SUCCESS - Config Flavors command
+2018-08-05 08:01:05: SUCCESS - Config Hardware command
+2018-08-05 08:01:06: SUCCESS - Config Images command
+2018-08-05 08:01:09: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:01:36: SUCCESS - admin show hardware command
+2018-08-05 08:01:59: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:01:59: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:02:08: SUCCESS - admin show hardware command
+2018-08-05 08:02:48: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 08:02:48: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 08:02:48: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 08:02:48: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 08:02:56: SUCCESS - admin show hardware command
+2018-08-05 08:03:13: Exited with Ctrl + C
+2018-08-05 08:06:27: Started AggieStack
+2018-08-05 08:06:31: SUCCESS - Config Flavors command
+2018-08-05 08:06:32: SUCCESS - Config Hardware command
+2018-08-05 08:06:32: SUCCESS - Config Images command
+2018-08-05 08:06:34: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:06:39: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:06:39: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:07:01: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:07:01: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:07:01: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:07:01: SUCCESS - Instance "my-first-instance" migrated to machine dora
+2018-08-05 08:07:06: Exited with Ctrl + C
+2018-08-05 08:10:33: Started AggieStack
+2018-08-05 08:10:36: SUCCESS - Config Flavors command
+2018-08-05 08:10:37: SUCCESS - Config Hardware command
+2018-08-05 08:10:38: SUCCESS - Config Images command
+2018-08-05 08:10:39: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:10:43: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:10:43: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:11:01: Exited with Ctrl + C
+2018-08-05 08:11:28: Started AggieStack
+2018-08-05 08:11:33: SUCCESS - Config Flavors command
+2018-08-05 08:11:33: SUCCESS - Config Hardware command
+2018-08-05 08:11:34: SUCCESS - Config Images command
+2018-08-05 08:11:36: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:11:40: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:11:40: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:12:02: Exited with "exit" command
+2018-08-05 08:12:52: Started AggieStack
+2018-08-05 08:12:54: SUCCESS - Config Flavors command
+2018-08-05 08:12:55: SUCCESS - Config Hardware command
+2018-08-05 08:12:56: SUCCESS - Config Images command
+2018-08-05 08:12:58: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:13:03: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:13:03: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:14:55: Exited with Ctrl + C
+2018-08-05 08:15:01: Started AggieStack
+2018-08-05 08:15:04: SUCCESS - Config Flavors command
+2018-08-05 08:15:05: SUCCESS - Config Hardware command
+2018-08-05 08:15:06: SUCCESS - Config Images command
+2018-08-05 08:15:08: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:15:10: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:15:10: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:21:41: Exited with Ctrl + C
+2018-08-05 08:21:42: Started AggieStack
+2018-08-05 08:21:44: SUCCESS - Config Flavors command
+2018-08-05 08:21:46: SUCCESS - Config Hardware command
+2018-08-05 08:21:47: SUCCESS - Config Images command
+2018-08-05 08:21:50: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:21:53: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:21:53: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:25:39: Exited with Ctrl + C
+2018-08-05 08:25:41: Started AggieStack
+2018-08-05 08:25:44: SUCCESS - Config Flavors command
+2018-08-05 08:25:45: SUCCESS - Config Hardware command
+2018-08-05 08:25:46: SUCCESS - Config Images command
+2018-08-05 08:25:47: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:25:50: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:25:50: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:27:18: Exited with Ctrl + C
+2018-08-05 08:27:19: Started AggieStack
+2018-08-05 08:27:21: SUCCESS - Config Flavors command
+2018-08-05 08:27:22: SUCCESS - Config Hardware command
+2018-08-05 08:27:22: SUCCESS - Config Images command
+2018-08-05 08:27:24: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:27:27: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:27:27: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:29:21: Exited with Ctrl + C
+2018-08-05 08:29:23: Started AggieStack
+2018-08-05 08:29:27: SUCCESS - Config Flavors command
+2018-08-05 08:29:28: SUCCESS - Config Hardware command
+2018-08-05 08:29:28: SUCCESS - Config Images command
+2018-08-05 08:29:32: SUCCESS - machine dora was empty  and evacuated2018-08-05 08:29:50: SUCCESS - machine hobbes was empty  and evacuated2018-08-05 08:29:53: Exited with Ctrl + C
+2018-08-05 08:43:22: Started AggieStack
+2018-08-05 08:43:25: SUCCESS - Config Flavors command
+2018-08-05 08:43:26: SUCCESS - Config Hardware command
+2018-08-05 08:43:27: SUCCESS - Config Images command
+2018-08-05 08:43:36: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:47:11: Started AggieStack
+2018-08-05 08:47:14: SUCCESS - Config Flavors command
+2018-08-05 08:47:14: SUCCESS - Config Hardware command
+2018-08-05 08:47:15: SUCCESS - Config Images command
+2018-08-05 08:47:17: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:47:19: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:47:19: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:58:45: Exited with Ctrl + C
+2018-08-05 08:58:46: Started AggieStack
+2018-08-05 08:58:49: SUCCESS - Config Flavors command
+2018-08-05 08:58:50: SUCCESS - Config Hardware command
+2018-08-05 08:58:51: SUCCESS - Config Images command
+2018-08-05 08:58:56: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 08:59:25: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 08:59:25: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 09:00:08: Exited with Ctrl + C
+2018-08-05 09:00:11: Started AggieStack
+2018-08-05 09:00:14: SUCCESS - Config Flavors command
+2018-08-05 09:00:15: SUCCESS - Config Hardware command
+2018-08-05 09:00:15: SUCCESS - Config Images command
+2018-08-05 09:00:21: SUCCESS - machine dora was empty  and evacuated2018-08-05 09:00:32: Exited with Ctrl + C
+2018-08-05 09:01:41: Started AggieStack
+2018-08-05 09:01:44: SUCCESS - Config Flavors command
+2018-08-05 09:01:45: SUCCESS - Config Hardware command
+2018-08-05 09:01:46: SUCCESS - Config Images command
+2018-08-05 09:05:35: Started AggieStack
+2018-08-05 09:05:38: SUCCESS - Config Flavors command
+2018-08-05 09:05:39: SUCCESS - Config Hardware command
+2018-08-05 09:05:40: SUCCESS - Config Images command
+2018-08-05 09:05:41: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 09:05:42: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 09:05:42: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 09:09:24: Exited with Ctrl + C
+2018-08-05 09:09:25: Started AggieStack
+2018-08-05 09:09:30: SUCCESS - Config Flavors command
+2018-08-05 09:09:31: SUCCESS - Config Hardware command
+2018-08-05 09:09:32: SUCCESS - Config Images command
+2018-08-05 09:09:33: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 09:09:37: SUCCESS - Instance "my-first-instance" migrated to machine hobbes
+2018-08-05 09:09:53: SUCCESS - admin show hardware command
+2018-08-05 09:10:34: SUCCESS - Instance "my-first-instance" migrated to machine calvin
+2018-08-05 09:10:41: SUCCESS - admin show hardware command
+2018-08-05 09:13:16: SUCCESS - Instance "my-first-instance" migrated to machine k3
+2018-08-05 09:13:33: SUCCESS - admin show hardware command
+2018-08-05 09:15:12: Exited with Ctrl + C
+2018-08-05 09:15:14: Started AggieStack
+2018-08-05 09:15:23: SUCCESS - Config Flavors command
+2018-08-05 09:15:24: SUCCESS - Config Hardware command
+2018-08-05 09:15:24: SUCCESS - Config Images command
+2018-08-05 09:15:31: SUCCESS - Instance my-first-instance was created on the machine dora
+2018-08-05 09:15:39: SUCCESS - Instance my-second-instance was created on the machine dora
+2018-08-05 09:15:47: SUCCESS - Instance my-third-instance was created on the machine dora
+2018-08-05 09:15:56: SUCCESS - admin show hardware command
+2018-08-05 09:16:26: FAILURE - Instance "my-first-instance" failed to migrate2018-08-05 09:16:26: FAILURE - Instance "my-second-instance" failed to migrate2018-08-05 09:16:26: SUCCESS - Instance "my-third-instance" migrated to machine hobbes
+2018-08-05 09:17:53: SUCCESS - admin show hardware command
+2018-08-05 09:28:17: Exited with Ctrl + C
+2018-08-05 09:28:22: Started AggieStack
+2018-08-05 09:28:29: SUCCESS - Config Flavors command
+2018-08-05 09:28:31: SUCCESS - Config Hardware command
+2018-08-05 09:28:32: SUCCESS - Config Images command
+2018-08-05 09:28:46: SUCCESS - Machine dora removed
+2018-08-05 09:28:54: SUCCESS - admin show hardware command
+2018-08-05 09:29:11: SUCCESS - Instance my-first-instance was created on the machine hobbes
+2018-08-05 09:29:23: FAILURE - Cannot remove machine
+2018-08-05 09:29:29: Exited with Ctrl + C
+2018-08-05 10:38:30: Started AggieStack
+2018-08-05 10:39:15: Started AggieStack
+2018-08-05 10:45:51: Started AggieStack
+2018-08-05 10:47:20: Started AggieStack
+2018-08-05 10:48:09: Started AggieStack
+2018-08-05 10:49:20: Started AggieStack
+2018-08-05 10:49:21: SUCCESS - Config Hardware command
+2018-08-05 10:49:31: SUCCESS - admin show hardware command
+2018-08-05 10:49:37: Exited with Ctrl + C
+2018-08-05 10:51:10: Started AggieStack
+2018-08-05 10:51:13: SUCCESS - Config Hardware command
+2018-08-05 10:51:46: Started AggieStack
+2018-08-05 10:51:48: SUCCESS - Config Hardware command
+2018-08-05 10:51:52: SUCCESS - admin show hardware command
+2018-08-05 10:52:01: Exited with Ctrl + C
+2018-08-05 10:54:16: Started AggieStack
+2018-08-05 10:54:18: SUCCESS - Config Hardware command
+2018-08-05 10:54:23: SUCCESS - admin show hardware command
+2018-08-05 18:54:43: Exited with Ctrl + C
+2018-08-05 18:54:46: Started AggieStack
+2018-08-05 18:54:55: SUCCESS - Config Flavors command
+2018-08-05 18:54:56: SUCCESS - Config Hardware command
+2018-08-05 18:54:56: SUCCESS - Config Images command
+2018-08-05 18:55:01: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 18:55:09: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 18:55:22: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 18:55:34: SUCCESS - admin show hardware command
+2018-08-05 18:59:17: Started AggieStack
+2018-08-05 18:59:23: SUCCESS - Config Flavors command
+2018-08-05 18:59:24: SUCCESS - Config Hardware command
+2018-08-05 18:59:24: SUCCESS - Config Images command
+2018-08-05 18:59:25: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 18:59:26: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 18:59:26: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:00:11: Started AggieStack
+2018-08-05 19:00:15: SUCCESS - Config Images command
+2018-08-05 19:00:18: SUCCESS - Config Flavors command
+2018-08-05 19:00:20: SUCCESS - Config Hardware command
+2018-08-05 19:00:23: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:00:24: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 19:00:24: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:04:02: Started AggieStack
+2018-08-05 19:04:06: SUCCESS - Config Flavors command
+2018-08-05 19:04:06: SUCCESS - Config Hardware command
+2018-08-05 19:04:07: SUCCESS - Config Images command
+2018-08-05 19:04:08: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:04:09: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 19:04:09: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:06:08: Started AggieStack
+2018-08-05 19:06:12: SUCCESS - Config Flavors command
+2018-08-05 19:10:18: Started AggieStack
+2018-08-05 19:10:20: SUCCESS - Config Hardware command
+2018-08-05 19:10:22: SUCCESS - Config Flavors command
+2018-08-05 19:10:25: SUCCESS - Config Images command
+2018-08-05 19:10:28: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:10:32: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 19:10:33: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:12:06: Started AggieStack
+2018-08-05 19:12:09: SUCCESS - Config Flavors command
+2018-08-05 19:12:10: SUCCESS - Config Hardware command
+2018-08-05 19:12:11: SUCCESS - Config Images command
+2018-08-05 19:12:11: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:12:13: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:14:06: Started AggieStack
+2018-08-05 19:14:09: SUCCESS - Config Flavors command
+2018-08-05 19:14:10: SUCCESS - Config Hardware command
+2018-08-05 19:14:11: SUCCESS - Config Images command
+2018-08-05 19:14:20: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:14:21: SUCCESS - Instance my-second-instance was created on the machine m2
+2018-08-05 19:14:21: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:15:37: Started AggieStack
+2018-08-05 19:15:42: SUCCESS - Config Hardware command
+2018-08-05 19:15:53: Exited with Ctrl + C
+2018-08-05 19:16:14: Started AggieStack
+2018-08-05 19:16:16: SUCCESS - Config Hardware command
+2018-08-05 19:16:19: Exited with Ctrl + C
+2018-08-05 19:17:36: Started AggieStack
+2018-08-05 19:17:38: SUCCESS - Config Hardware command
+2018-08-05 19:18:49: Exited with Ctrl + C
+2018-08-05 19:18:50: Started AggieStack
+2018-08-05 19:18:52: SUCCESS - Config Hardware command
+2018-08-05 19:18:58: Exited with Ctrl + C
+2018-08-05 19:21:04: Started AggieStack
+2018-08-05 19:21:05: SUCCESS - Config Hardware command
+2018-08-05 19:21:45: Exited with Ctrl + C
+2018-08-05 19:21:46: Started AggieStack
+2018-08-05 19:21:51: SUCCESS - Config Hardware command
+2018-08-05 19:24:26: Exited with Ctrl + C
+2018-08-05 19:24:29: Started AggieStack
+2018-08-05 19:24:31: SUCCESS - Config Hardware command
+2018-08-05 19:28:42: Started AggieStack
+2018-08-05 19:28:44: SUCCESS - Config Hardware command
+2018-08-05 19:30:33: Started AggieStack
+2018-08-05 19:30:36: SUCCESS - Config Hardware command
+2018-08-05 19:32:09: Started AggieStack
+2018-08-05 19:32:13: SUCCESS - Config Hardware command
+2018-08-05 19:32:58: Started AggieStack
+2018-08-05 19:33:08: SUCCESS - Config Flavors command
+2018-08-05 19:33:12: SUCCESS - Config Hardware command
+2018-08-05 19:33:27: FAILURE - Flavors file entered does not exist
+2018-08-05 19:33:55: Started AggieStack
+2018-08-05 19:34:09: SUCCESS - Config Hardware command
+2018-08-05 19:34:15: SUCCESS - Config Flavors command
+2018-08-05 19:34:20: SUCCESS - Config Images command
+2018-08-05 19:34:32: SUCCESS - Instance my-first-instance was created on the machine m1
+2018-08-05 19:34:37: SUCCESS - Instance my-third-instance was created on the machine k1
+2018-08-05 19:39:22: Started AggieStack
+2018-08-05 19:39:26: SUCCESS - Config Hardware command
+2018-08-05 19:39:27: SUCCESS - Config Flavors command
+2018-08-05 19:39:28: SUCCESS - Config Images command
+2018-08-05 19:41:25: Started AggieStack
+2018-08-05 19:41:28: SUCCESS - Config Hardware command
+2018-08-05 19:41:29: SUCCESS - Config Flavors command
+2018-08-05 19:41:29: SUCCESS - Config Images command
+2018-08-05 19:42:17: Started AggieStack
+2018-08-05 19:42:19: SUCCESS - Config Hardware command
+2018-08-05 19:42:20: SUCCESS - Config Flavors command
+2018-08-05 19:42:21: SUCCESS - Config Images command
+2018-08-05 19:43:07: Started AggieStack
+2018-08-05 19:43:09: SUCCESS - Config Hardware command
+2018-08-05 19:43:10: SUCCESS - Config Flavors command
+2018-08-05 19:43:11: SUCCESS - Config Images command
+2018-08-05 19:46:00: Started AggieStack
+2018-08-05 19:46:04: SUCCESS - Config Hardware command
+2018-08-05 19:46:37: Exited with Ctrl + C
+2018-08-05 19:47:11: Started AggieStack
+2018-08-05 19:47:13: SUCCESS - Config Hardware command
+2018-08-05 19:48:23: Exited with Ctrl + C
+2018-08-05 19:48:24: Started AggieStack
+2018-08-05 19:48:25: SUCCESS - Config Hardware command
+2018-08-05 19:51:49: Exited with Ctrl + C
+2018-08-05 19:51:50: Started AggieStack
+2018-08-05 19:51:52: SUCCESS - Config Hardware command
+2018-08-05 19:56:00: Exited with Ctrl + C
+2018-08-05 19:56:01: Started AggieStack
+2018-08-05 19:56:26: Started AggieStack
+2018-08-05 19:56:28: SUCCESS - Config Hardware command
+2018-08-05 19:57:39: Exited with Ctrl + C
+2018-08-05 19:57:40: Started AggieStack
+2018-08-05 19:57:41: SUCCESS - Config Hardware command
+2018-08-05 19:59:15: Exited with Ctrl + C
+2018-08-05 19:59:17: Started AggieStack
+2018-08-05 19:59:19: SUCCESS - Config Hardware command
+2018-08-05 19:59:28: Exited with Ctrl + C
+2018-08-05 20:02:51: Started AggieStack
+2018-08-05 20:02:53: SUCCESS - Config Hardware command
+2018-08-05 20:03:31: Exited with Ctrl + C
+2018-08-05 20:03:32: Started AggieStack
+2018-08-05 20:03:55: Exited with Ctrl + C
+2018-08-05 20:04:10: Started AggieStack
+2018-08-05 20:04:14: SUCCESS - Config Hardware command
+2018-08-05 20:05:25: Exited with Ctrl + C
+2018-08-05 20:05:26: Started AggieStack
+2018-08-05 20:05:29: SUCCESS - Config Hardware command
+2018-08-05 20:07:42: Started AggieStack
+2018-08-05 20:07:45: SUCCESS - Config Hardware command
+2018-08-05 20:09:13: Exited with Ctrl + C
+2018-08-05 20:09:15: Started AggieStack
+2018-08-05 20:09:17: SUCCESS - Config Hardware command
+2018-08-05 20:10:11: Exited with Ctrl + C
+2018-08-05 20:10:28: Started AggieStack
+2018-08-05 20:10:30: SUCCESS - Config Hardware command
+2018-08-05 20:14:22: Exited with Ctrl + C
+2018-08-05 20:14:23: Started AggieStack
+2018-08-05 20:14:59: Started AggieStack
+2018-08-05 20:16:34: Started AggieStack
+2018-08-05 20:16:36: SUCCESS - Config Hardware command
+2018-08-05 20:18:28: Exited with Ctrl + C
+2018-08-05 20:18:28: Started AggieStack
+2018-08-05 20:21:45: Started AggieStack
+2018-08-05 20:25:25: Started AggieStack
+2018-08-05 20:30:01: Started AggieStack
+2018-08-05 20:30:03: Exited with Ctrl + C
+2018-08-05 20:30:52: Started AggieStack
+2018-08-05 20:32:56: Started AggieStack
+2018-08-05 20:32:58: SUCCESS - Config Hardware command
+2018-08-05 20:33:03: Exited with Ctrl + C
+2018-08-05 20:34:44: Started AggieStack
+2018-08-05 20:35:54: Started AggieStack
+2018-08-05 20:35:55: SUCCESS - Config Hardware command
+2018-08-05 20:36:33: Exited with Ctrl + C
+2018-08-05 20:36:34: Started AggieStack
+2018-08-05 20:36:35: SUCCESS - Config Hardware command
+2018-08-05 20:36:41: Exited with Ctrl + C
+2018-08-05 20:38:10: Started AggieStack
+2018-08-05 20:38:11: SUCCESS - Config Hardware command
+2018-08-05 20:38:13: Exited with Ctrl + C
+2018-08-05 20:39:24: Started AggieStack
+2018-08-05 20:41:18: Started AggieStack
+2018-08-05 20:42:53: Started AggieStack
+2018-08-05 20:43:39: Started AggieStack
+2018-08-05 20:44:07: Started AggieStack
+2018-08-05 20:45:34: Started AggieStack
+2018-08-05 20:46:58: Started AggieStack
+2018-08-05 20:49:18: Started AggieStack
+2018-08-05 20:49:19: SUCCESS - Config Hardware command
+2018-08-05 20:53:44: SUCCESS - Config Hardware command
+2018-08-05 20:53:48: Exited with Ctrl + C
+2018-08-05 20:53:49: Started AggieStack
+2018-08-05 20:56:01: Started AggieStack
+2018-08-05 20:56:31: Started AggieStack
+2018-08-05 20:56:31: SUCCESS - Config Hardware command
+2018-08-05 20:56:33: Exited with Ctrl + C
+2018-08-05 21:05:47: Started AggieStack
+2018-08-05 21:05:54: SUCCESS - Config Hardware command
+2018-08-05 21:06:04: SUCCESS - Config Images command
+2018-08-05 21:06:07: SUCCESS - Config Flavors command
+2018-08-05 21:06:29: SUCCESS - admin show hardware command
+2018-08-05 21:07:18: Exited with Ctrl + C
+2018-08-05 21:07:20: Started AggieStack
+2018-08-05 21:07:24: SUCCESS - admin show hardware command
+2018-08-05 21:07:29: SUCCESS - Config Hardware command
+2018-08-05 21:07:30: SUCCESS - Config Images command
+2018-08-05 21:07:31: SUCCESS - Config Flavors command
+2018-08-05 21:08:36: SUCCESS - admin show hardware command
+2018-08-05 21:08:51: Exited with Ctrl + C
+2018-08-05 21:10:33: Started AggieStack
+2018-08-05 21:10:38: SUCCESS - Config Hardware command
+2018-08-05 21:12:17: Exited with Ctrl + C
+2018-08-05 21:12:18: Started AggieStack
+2018-08-05 21:12:21: SUCCESS - Config Hardware command
+2018-08-05 21:12:26: SUCCESS - admin show hardware command
+2018-08-05 21:12:35: SUCCESS - admin show hardware command
+2018-08-05 21:12:43: Exited with Ctrl + C
+2018-08-05 21:18:23: Started AggieStack
+2018-08-05 21:18:31: SUCCESS - Config Hardware command
+2018-08-05 21:18:34: SUCCESS - Machine m1 evacuated to rack r2 from r1
+2018-08-05 21:18:34: SUCCESS - Machine m2 evacuated to rack r2 from r1
+2018-08-05 21:18:34: SUCCESS - Machine m3 evacuated to rack r2 from r1
+2018-08-05 21:18:34: SUCCESS - Machine calvin evacuated to rack r2 from r1
+2018-08-05 21:18:34: SUCCESS - Machine hobbes evacuated to rack r2 from r1
+2018-08-05 21:18:34: SUCCESS - Machine dora evacuated to rack r2 from r1
+2018-08-05 21:18:50: Started AggieStack
+2018-08-05 21:18:53: SUCCESS - Config Hardware command
+2018-08-05 21:18:56: SUCCESS - Machine m1 evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Machine m2 evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Machine m3 evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Machine calvin evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Machine hobbes evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Machine dora evacuated to rack r2 from r1
+2018-08-05 21:18:56: SUCCESS - Number of machines evacuated6
+2018-08-05 21:19:03: Exited with Ctrl + C
+2018-08-05 21:27:51: Started AggieStack
+2018-08-05 21:27:53: FAILURE - Rack "r1" does not exist
+2018-08-05 21:28:05: SUCCESS - Config Hardware command
+2018-08-05 21:28:10: SUCCESS - Machine m1 evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Machine m2 evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Machine m3 evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Machine calvin evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Machine hobbes evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Machine dora evacuated to rack r2 from r1
+2018-08-05 21:28:10: SUCCESS - Number of machines evacuated: 6
+2018-08-05 21:28:13: Exited with Ctrl + C
+2018-08-05 21:29:40: Started AggieStack
+2018-08-05 21:29:42: FAILURE - Rack "" does not exist
+2018-08-05 21:29:47: Exited with Ctrl + C
+2018-08-05 21:34:28: Started AggieStack
+2018-08-05 21:34:49: Started AggieStack
+2018-08-05 21:34:53: SUCCESS - Config Hardware command
+2018-08-05 21:35:09: Started AggieStack
+2018-08-05 21:36:17: FAILURE - Machine "" does not exist
+2018-08-05 21:36:25: Exited with Ctrl + C
+2018-08-05 21:42:04: Started AggieStack
+2018-08-05 21:42:09: FAILURE - Machine "" does not exist
+2018-08-05 21:42:16: Exited with Ctrl + C
+2018-08-05 21:49:56: Started AggieStack
+2018-08-05 21:50:19: FAILURE - File image-config.txt is the wrong file
+2018-08-05 21:50:40: FAILURE - File image-config.txt is the wrong file
+2018-08-05 21:51:09: FAILURE - File flavor-config.txt is the wrong file
+2018-08-05 21:51:11: Exited with Ctrl + C
+2018-08-05 21:57:08: Started AggieStack
+2018-08-05 21:57:32: SUCCESS - admin add command
+2018-08-05 21:57:37: SUCCESS - admin show hardware command
+2018-08-05 21:58:13: Exited with Ctrl + C
+2018-08-05 22:12:23: Started AggieStack
+2018-08-05 22:13:06: SUCCESS - Config Hardware command
+2018-08-05 22:13:13: SUCCESS - Config Images command
+2018-08-05 22:13:22: SUCCESS - Config Flavors command
+2018-08-05 22:17:11: Started AggieStack
+2018-08-05 22:17:15: SUCCESS - Config Hardware command
+2018-08-05 22:17:15: SUCCESS - Config Images command
+2018-08-05 22:17:16: SUCCESS - Config Flavors command
+2018-08-05 22:17:19: SUCCESS - can_host command, it CAN host
+2018-08-05 22:18:00: Exited with Ctrl + C
+2018-08-05 22:24:49: Started AggieStack
+2018-08-05 22:24:51: Exited with Ctrl + C
+2018-08-05 22:36:51: Started AggieStack
+2018-08-05 22:36:55: Exited with Ctrl + C
