@@ -56,7 +56,7 @@ def test():
 	'''
 	testV = virt_machine()
 
-	testV.setSize_V("YUGE")
+	testV.setSize_V("Big Zam")
 	testV.setRam_V(23)
 	testV.setDisk_V(123)
 	testV.setVcpu_V(22)
@@ -76,7 +76,7 @@ def test():
 	#print(test2.getName())
 
 	'''
-	test.setName("poo")
+	test.setName("Crazy Diamond")
 	test.setIp("1.1.1.1")
 	test.setDisk(12)
 	test.setMem(1)
@@ -87,7 +87,7 @@ def test():
 
 	'''
 	testI = images()
-	testI.setI_name("TFM")
+	testI.setI_name("Gold Experience")
 	testI.setI_path("......")
 	print(testI.getI_name())
 	print(testI.getI_path())
